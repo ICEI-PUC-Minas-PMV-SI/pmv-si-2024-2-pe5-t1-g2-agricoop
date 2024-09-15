@@ -4,7 +4,7 @@ Bruno Soares - Desenvolvi a documentação sobre os Serviços Principais e Tecno
 
 Larissa - Participei da descrição da missão, visão e valores da Agricoop. Fui responsável em descrever todos os equipamentos de infraestrutura necessários para as filiais e revisar os textos que as descrevem. No Packet Tracer, criei o modelo inicial da estrutura física (Physical) da Agricoop, separando as filiais e adicionando cada equipamento em sua respectiva unidade. Implementei uma impressora em cada local e configurei um servidor demonstrativo para o AD (Active Directory).
 
-Jean Rosário - Participei da descrição da missão, visão e valores da Agricoop. Realizei a prototipação inicial da WAN, escolhendo as faixas de IP utilizadas na infraestrutura e as máscaras, criando também a configuração das conexões por fibra entre a Sede e Filiais, configurando os roteamentos e fazendo com que tudo se comunique. Além do servidor DHCP de cada unidade e o servidor de DNS universal.
+Jean Rosário - Participei da descrição da missão, visão e valores da Agricoop. Realizei a prototipação inicial da WAN, escolhendo as faixas de IP utilizadas na infraestrutura e as máscaras, criando também a configuração das conexões por fibra entre a Sede e Filiais, configurando os roteamentos e fazendo com que tudo se comunique. Além do servidor DHCP de cada unidade e o servidor de DNS universal. Também auxiliei na gravação e edição do vídeo de apresentação.
 
 João José - Participei do desenvolvimento da documentação sobre os Serviços Principais e Tecnologia da Informação da Agricoop. Fui responsável por descrever todos os equipamentos de infraestrutura necessários para a sede. No Packet Tracer, implementei o serviço Wi-Fi através de Acess Point, e configurei as VLAN para isolar usuários visitante. 
 
