@@ -1,3 +1,5 @@
 Lincoln - Descrição dos itens: aréa de atuação, região onde opera, tamanho que compõe a cooperativa. / Criação e configuração dos servidores para os serviços de FTP e WEB.
 
 Bruno Soares - Desenvolvi a documentação sobre os Serviços Principais e Tecnologia da Informação da Agricoop, destacando os serviços financeiros oferecidos aos cooperados e o papel essencial da TI em garantir eficiência, segurança e modernização dos processos. Além disso, simulei no Cisco Packet Tracer a interação entre o servidor e o banco de dados, e colaborei na criação da lista de materias que envolvem a infraestrutura de rede da agricoop
+
+Larissa - Participei da descrição da missão, visão e valores da Agricoop. Fui responsável em descrever todos os equipamentos de infraestrutura necessários para as filiais e revisar os textos que as descrevem. No Packet Tracer, criei o modelo inicial da estrutura física (Physical) da Agricoop, separando as filiais e adicionando cada equipamento em sua respectiva unidade. Implementei uma impressora em cada local e configurei um servidor demonstrativo para o AD (Active Directory).
