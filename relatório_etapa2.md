@@ -2,6 +2,8 @@ Larissa - Resposável por configurar no virtual box , um servidor de DNS e um se
 
 Gabriel - participei da implementação do servidor de banco de dados. Editei o vídeo de apresentação. Estruturei e organizei o arquivo com os prints de tela. Auxiliei o grupo de maneira geral em relação à coordenação e divisão de tarefas.
 
+Bruno - participei da implementação do banco de dados, configurei ele na nuvem da aws, configurei e realizei testes usando softwares de análise de banco de dados como o HeidiSQL, fiz uma aplicação em node para testar a conectividade desse BD e gravei o video sobre todo esse processo
+
 Lincoln - responsável por criar, configurar e implementar o servidor web em nuvem no AWS, foi criado um codigo em HTML para representar o serviço web da cooperativa.
 
 João José - Responsável por configurar um servidor de FTP no AWS, e testar o mesmo no FileZilla, além de ter feito o teste em vídeo e registro dos prints do respectivo serviço.
