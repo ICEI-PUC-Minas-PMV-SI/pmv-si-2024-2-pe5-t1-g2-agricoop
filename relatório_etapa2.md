@@ -1,1 +1,1 @@
-
+Larissa - Resposável por configurar no virtual box , um servidor de DNS e um servidor do Active Directory no windowns server. Foi criado também uma máquina virtual de Windows 10 para aplicar o teste de usuário do AD e GPO.
