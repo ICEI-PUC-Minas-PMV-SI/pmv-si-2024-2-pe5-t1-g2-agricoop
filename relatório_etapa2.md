@@ -5,3 +5,5 @@ Gabriel - participei da implementação do servidor de banco de dados. Editei o 
 Lincoln - responsável por criar, configurar e implementar o servidor web em nuvem no AWS, foi criado um codigo em HTML para representar o serviço web da cooperativa.
 
 João José - Responsável por configurar um servidor de FTP no AWS, e testar o mesmo no FileZilla, além de ter feito o teste em vídeo e registro dos prints do respectivo serviço.
+
+Jean Rosário - Responsável por criar, configurar e implementar o servidor de DHCP no ambiente on-premise (Virtualbox) utilizando o Ubuntu Server, e aplicar um teste de usuário em uma máquina Windows 10.
