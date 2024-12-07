@@ -2,3 +2,4 @@ Lincoln - Contribui para a criação do documento em latex (com auxilio do Bruno
 
 João José - Responsável pela Análise de Vulnerabilidades e Propostas de Soluções para a Infraestrutura de TI da Agricoop e adicionar a mesma no látex (com auxílio do Bruno). 
 
+Larissa - Apoiei na criação e revisão da cartilha de segurança da informação, colocando a mesma no latex.
