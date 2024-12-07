@@ -5,3 +5,5 @@ João José - Responsável pela Análise de Vulnerabilidades e Propostas de Solu
 Larissa - Apoiei na criação e revisão da cartilha de segurança da informação, colocando a mesma no latex.
 
 Jean Rosário - Criei o design da cartilha de segurança da informação em formato "flyer" e ajustei os textos para que fossem inseridos na mesma.
+
+Bruno - Criei o documento em LaTex e fiz o deploy da aplicação(com auxilio do Lincoln). 
