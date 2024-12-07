@@ -7,3 +7,5 @@ Larissa - Apoiei na criação e revisão da cartilha de segurança da informaç�
 Jean Rosário - Criei o design da cartilha de segurança da informação em formato "flyer" e ajustei os textos para que fossem inseridos na mesma.
 
 Bruno - Criei o documento em LaTex e fiz o deploy da aplicação(com auxilio do Lincoln). 
+
+Gabriel - Escrevi a Política de Segurança da Informação (PSI) e incluí no documento principal o texto do item 4.1.
